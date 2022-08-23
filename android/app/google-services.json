@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705353891392",
+    "project_id": "onepassword-a5cad",
+    "storage_bucket": "onepassword-a5cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705353891392:android:e5a5cd82ade57deb2fa9a5",
+        "android_client_info": {
+          "package_name": "com.example.one_password"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705353891392-8scjdsuad7v8p2lidhv4ijprtjp4nnrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2Eu5vHZAh4lF6Q3LABmbDXcrZ6lFag0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705353891392-8scjdsuad7v8p2lidhv4ijprtjp4nnrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
