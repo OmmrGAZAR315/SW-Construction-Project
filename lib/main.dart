@@ -1,4 +1,4 @@
-import 'package:firebase_core/firebase_core.dart';
+gotimport 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:one_password/readit.dart';
 import 'package:one_password/saveit.dart';
